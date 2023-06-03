@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     const loginForm = document.getElementById('loginForm');
-    const rememberCheckbox = document.getElementById('remember');
+    const rememberCheckbox = document.getElementById('checkbox');
     const usernameInput = document.getElementById('username');
     const passwordInput = document.getElementById('password');
 
